@@ -8,7 +8,6 @@
 #include "socket.h"
 
 extern SSL *ssl;
-extern bool ssl_enabled;
 
 
 /*
